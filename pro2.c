@@ -3,8 +3,6 @@ int main() {
     int number;
    
     printf("Enter an number or value: ");  
-    
-    // reads and stores input
     scanf("%d", &number);
 
     // displays output
